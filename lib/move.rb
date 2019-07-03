@@ -12,4 +12,4 @@ def input_to_index(num)
   
 end
 
-num = 
+num = ['1'to_i
